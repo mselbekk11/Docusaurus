@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alkimi/manage-docs-versions",
+  "id": "Alkimi/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Alkimi/manage-docs-versions.md",
+  "sourceDirName": "Alkimi",
+  "slug": "/Alkimi/manage-docs-versions",
+  "permalink": "/docs/Alkimi/manage-docs-versions",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome To Alkimi",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Alkimi/translate-your-site"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Alkimi/intro",
+  "id": "Alkimi/intro",
+  "title": "intro",
+  "description": "<!-- ---",
+  "source": "@site/docs/Alkimi/intro.md",
+  "sourceDirName": "Alkimi",
+  "slug": "/Alkimi/intro",
+  "permalink": "/docs/Alkimi/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hello",
+    "permalink": "/docs/Alkimi/hello"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Alkimi/hello",
+  "id": "Alkimi/hello",
+  "title": "hello",
+  "description": "<!-- ---",
+  "source": "@site/docs/Alkimi/hello.md",
+  "sourceDirName": "Alkimi",
+  "slug": "/Alkimi/hello",
+  "permalink": "/docs/Alkimi/hello",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/hello.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/Alkimi/translate-your-site"
+  },
+  "next": {
+    "title": "intro",
+    "permalink": "/docs/Alkimi/intro"
+  }
+}

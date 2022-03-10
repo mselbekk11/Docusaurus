@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alkimi/translate-your-site",
+  "id": "Alkimi/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Alkimi/translate-your-site.md",
+  "sourceDirName": "Alkimi",
+  "slug": "/Alkimi/translate-your-site",
+  "permalink": "/docs/Alkimi/translate-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/Alkimi/manage-docs-versions"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}
