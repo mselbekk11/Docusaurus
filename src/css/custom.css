@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #081333;
+  --ifm-color-primary: #000;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -36,4 +36,83 @@
 
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+/* HOMEPAGE STYLES */
+
+/* main {
+  height: 100%;
+  background-color: red;
+} */
+
+.homepage {
+  background-color: #F5F5F5;
+  width: 100%;
+  padding-bottom: 4rem;
+  min-height: 850px;
+  height: 100%;
+
+}
+
+.container.center {
+text-align: center;
+width: 100%;
+}
+
+.title-container {
+  width: 100%;
+  padding: 5rem 0rem;
+}
+
+img.hero-banner-logo {
+  width: 6rem;
+  margin-bottom: 1rem;
+}
+
+.homepage-title {
+  font-size: 2rem;
+}
+
+.homepage .row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2rem;
+  padding: 0rem 2rem;
+}
+
+/* .homepage .one, .two, .three {
+  background-image: url('https://res.cloudinary.com/mselbekk-com/image/upload/v1647266112/tile_iisuig.png');
+  background-repeat: no-repeat;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
+
+.homepage .one, .two, .three {
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 4px 4px 0px #000000;
+  border-radius: 10px;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer--dark {
+  background-color: #000;
+}
+
+
+@media only screen and (max-width: 950px) {
+
+  .homepage .row {
+    grid-template-columns: 1fr;
+  }
+
 }

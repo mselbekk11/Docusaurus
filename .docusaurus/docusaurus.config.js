@@ -43,7 +43,12 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Documentation"
+          "label": "Docs"
+        },
+        {
+          "position": "left",
+          "label": "Team",
+          "to": "/blog"
         },
         {
           "to": "/blog",
@@ -51,8 +56,23 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://twitter.com/alkimiexchange",
+          "label": "Twitter",
+          "position": "right"
+        },
+        {
+          "href": "https://discord.gg/bAan8da6Bc",
+          "label": "Discord",
+          "position": "right"
+        },
+        {
+          "href": "https://t.me/Alkimi_Exchange",
+          "label": "Telegram",
+          "position": "right"
+        },
+        {
+          "href": "https://www.youtube.com/channel/UCfvLB-WjXB7oZSeFci-RT5w",
+          "label": "Youtube",
           "position": "right"
         }
       ],
@@ -80,6 +100,14 @@ export default {
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
             },
             {
               "label": "Twitter",

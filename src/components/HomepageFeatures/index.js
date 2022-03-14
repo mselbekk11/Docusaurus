@@ -1,11 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import './styles-morgan.css';
+// import './styles-morgan.css';
 
 const FeatureList = [
   {
-    title: 'Advertiser',
+    title: 'Welcome >',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     // Svg: require('@site/static/img/test.svg').default,
     // description: (
@@ -16,7 +16,7 @@ const FeatureList = [
     // ),
   },
   {
-    title: 'Publisher',
+    title: 'Whitepaper >',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     // Svg: require('@site/static/img/publishers.svg').default,
     // description: (
@@ -27,7 +27,7 @@ const FeatureList = [
     // ),
   },
   {
-    title: 'User',
+    title: 'Blog >',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     // description: (
     //   <>
@@ -65,3 +65,19 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+
+
+// export default function HomepageFeaturesNew() {
+//   return (
+//     <section className="new-section">
+//       <div className="container">
+//         <div className="row">
+//           <div className="one"></div>
+//           <div className="two"></div>
+//           <div className="three"></div>
+//         </div>
+//       </div>
+//     </section>
+//   );
+// }

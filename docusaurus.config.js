@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Alkimi Exchange',
         logo: {
           alt: 'My Site Logo',
           src: 'img/alkimi-logo.png',
@@ -53,14 +53,52 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            position: 'left',
+            label: 'Team',
+            to: '/blog', 
           },
+          // {
+          //   position: 'left',
+          //   label: 'Publisher',
+          //   to: '/blog', 
+          // },
+          // {
+          //   position: 'left',
+          //   label: 'User',
+          //   to: '/blog', 
+          // },
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'},
+            {
+              href: 'https://twitter.com/alkimiexchange',
+              label: 'Twitter',
+              position: 'right',
+            },
+            {
+              href: 'https://discord.gg/bAan8da6Bc',
+              label: 'Discord',
+              position: 'right',
+            },
+            {
+              href: 'https://t.me/Alkimi_Exchange',
+              label: 'Telegram',
+              position: 'right',
+            },
+            {
+              href: 'https://www.youtube.com/channel/UCfvLB-WjXB7oZSeFci-RT5w',
+              label: 'Youtube',
+              position: 'right',
+            },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -90,6 +128,15 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
               },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/docusaurus',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/docusaurus',
+              },
+              
             ],
           },
           {
@@ -111,6 +158,8 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        // theme: darkCodeTheme,
+        // darkTheme: lightCodeTheme,
       },
     }),
 };
