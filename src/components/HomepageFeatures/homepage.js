@@ -13,7 +13,7 @@ export default function Homepage() {
         </div>
           <div className="row">
             <a href="/docs/intro"><div className="one">
-                <h2>Welcome</h2>
+                <h2>Welcomee</h2>
             </div></a>
             <a href="/docs/Alkimi/manage-docs-versions"><div className="two">
                 <h2>Whitepaper</h2>
