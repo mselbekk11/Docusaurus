@@ -2,7 +2,30 @@
 sidebar_position: 1
 ---
 
-# Welcome To Alkimi
+# Welcome To Alkimi Exchange
+
+A decentralised replacement to the inefficient legacy programmatic ad exchanges with the mission to restore the value exchange between advertisers, publishers and users.
+
+Alkimi is powered by the Hypergraph – a revolutionary blockchain technology – trusted by the U.S. Department of Defense – which allows us to provide the fastest, infinitely scalable solution with 0% fraud, minimal transaction fees and complete end to end transparency.
+
+Alkimi Exchange helps you create ad products, proven to be successful by walled gardens, across the open web.
+
+## The Worlds First Decentralised Ad Exchange
+
+We think about Advertising differently, so we are building the world’s first decentralised ad exchange, where:
+
+- Users aren't a product
+- Publishers aren't at the behest of Facebook and Google
+- Advertisers can deliver their message with value
+
+Using the principle of Generative Economics, the Alkimi Exchange will reward Users, Publishers and Advertisers for rebuilding the intended value exchange of the Open Web. Fewer Ads, Better User Experience, Increased Engagement.
+
+![Locale Dropdown](/img/alex.png)
+
+
+
+
+<!-- 
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
@@ -44,4 +67,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->

@@ -15,10 +15,10 @@ export default function Homepage() {
             <a href="/docs/intro"><div className="one">
                 <h2>Welcome</h2>
             </div></a>
-            <a href="/docs/intro"><div className="two">
+            <a href="/docs/Alkimi/manage-docs-versions"><div className="two">
                 <h2>Whitepaper</h2>
             </div></a>
-            <a href="/docs/intro"><div className="three">
+            <a href="/blog"><div className="three">
                 <h2>Blog</h2>
             </div></a>
           </div>

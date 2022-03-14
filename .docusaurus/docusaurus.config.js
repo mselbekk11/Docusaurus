@@ -10,7 +10,7 @@ export default {
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/alkimi-logo.png",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "presets": [

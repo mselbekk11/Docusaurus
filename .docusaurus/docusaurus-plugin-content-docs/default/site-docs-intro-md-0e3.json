@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Welcome To Alkimi",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Welcome To Alkimi Exchange",
+  "description": "A decentralised replacement to the inefficient legacy programmatic ad exchanges with the mission to restore the value exchange between advertisers, publishers and users.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
