@@ -93,6 +93,8 @@ img.hero-banner-logo {
 
 .homepage .one, .two, .three {
   background: #FFFFFF;
+  /* background-image: url('https://res.cloudinary.com/mselbekk-com/image/upload/v1647266112/tile_iisuig.png');
+  background-repeat: no-repeat; */
   border: 2px solid #000000;
   box-sizing: border-box;
   box-shadow: 4px 4px 0px #000000;
