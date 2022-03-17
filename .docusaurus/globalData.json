@@ -11,13 +11,18 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Alkimi/manage-docs-versions",
-              "path": "/docs/Alkimi/manage-docs-versions",
+              "id": "Alkimi/page-1",
+              "path": "/docs/Alkimi/page-1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Alkimi/translate-your-site",
-              "path": "/docs/Alkimi/translate-your-site",
+              "id": "Alkimi/page-2",
+              "path": "/docs/Alkimi/page-2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alkimi/page-3",
+              "path": "/docs/Alkimi/page-3",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog','d6d'),
     exact: true
@@ -85,17 +120,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ee7'),
+    component: ComponentCreator('/docs','e77'),
     routes: [
       {
-        path: '/docs/Alkimi/manage-docs-versions',
-        component: ComponentCreator('/docs/Alkimi/manage-docs-versions','992'),
+        path: '/docs/Alkimi/page-1',
+        component: ComponentCreator('/docs/Alkimi/page-1','9a4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Alkimi/translate-your-site',
-        component: ComponentCreator('/docs/Alkimi/translate-your-site','242'),
+        path: '/docs/Alkimi/page-2',
+        component: ComponentCreator('/docs/Alkimi/page-2','554'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Alkimi/page-3',
+        component: ComponentCreator('/docs/Alkimi/page-3','714'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

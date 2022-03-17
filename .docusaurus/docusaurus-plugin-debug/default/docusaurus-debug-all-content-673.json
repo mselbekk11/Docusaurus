@@ -19,15 +19,15 @@
           "contentPathLocalized": "/Users/morgan/Documents/Docusaurus/Docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "Alkimi/manage-docs-versions",
-              "id": "Alkimi/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/Alkimi/manage-docs-versions.md",
+              "unversionedId": "Alkimi/page-1",
+              "id": "Alkimi/page-1",
+              "title": "Page 1 - Alkimi Exchange",
+              "description": "Table of Contents",
+              "source": "@site/docs/Alkimi/page-1.md",
               "sourceDirName": "Alkimi",
-              "slug": "/Alkimi/manage-docs-versions",
-              "permalink": "/docs/Alkimi/manage-docs-versions",
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/manage-docs-versions.md",
+              "slug": "/Alkimi/page-1",
+              "permalink": "/docs/Alkimi/page-1",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/page-1.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -40,20 +40,20 @@
                 "permalink": "/docs/intro"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/Alkimi/translate-your-site"
+                "title": "Page 2",
+                "permalink": "/docs/Alkimi/page-2"
               }
             },
             {
-              "unversionedId": "Alkimi/translate-your-site",
-              "id": "Alkimi/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/Alkimi/translate-your-site.md",
+              "unversionedId": "Alkimi/page-2",
+              "id": "Alkimi/page-2",
+              "title": "Page 2",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Alkimi/page-2.md",
               "sourceDirName": "Alkimi",
-              "slug": "/Alkimi/translate-your-site",
-              "permalink": "/docs/Alkimi/translate-your-site",
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/translate-your-site.md",
+              "slug": "/Alkimi/page-2",
+              "permalink": "/docs/Alkimi/page-2",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/page-2.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -62,8 +62,34 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/Alkimi/manage-docs-versions"
+                "title": "Page 1 - Alkimi Exchange",
+                "permalink": "/docs/Alkimi/page-1"
+              },
+              "next": {
+                "title": "Page 3",
+                "permalink": "/docs/Alkimi/page-3"
+              }
+            },
+            {
+              "unversionedId": "Alkimi/page-3",
+              "id": "Alkimi/page-3",
+              "title": "Page 3",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Alkimi/page-3.md",
+              "sourceDirName": "Alkimi",
+              "slug": "/Alkimi/page-3",
+              "permalink": "/docs/Alkimi/page-3",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/page-3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Page 2",
+                "permalink": "/docs/Alkimi/page-2"
               },
               "next": {
                 "title": "Create a Page",
@@ -88,8 +114,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/Alkimi/manage-docs-versions"
+                "title": "Page 1 - Alkimi Exchange",
+                "permalink": "/docs/Alkimi/page-1"
               }
             },
             {
@@ -188,8 +214,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/docs/Alkimi/translate-your-site"
+                "title": "Page 3",
+                "permalink": "/docs/Alkimi/page-3"
               },
               "next": {
                 "title": "Create a Document",
@@ -311,11 +337,15 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Alkimi/manage-docs-versions"
+                    "id": "Alkimi/page-1"
                   },
                   {
                     "type": "doc",
-                    "id": "Alkimi/translate-your-site"
+                    "id": "Alkimi/page-2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Alkimi/page-3"
                   }
                 ]
               },

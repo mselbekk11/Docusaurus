@@ -22,15 +22,21 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/Alkimi/manage-docs-versions",
-            "docId": "Alkimi/manage-docs-versions"
+            "label": "Page 1 - Alkimi Exchange",
+            "href": "/docs/Alkimi/page-1",
+            "docId": "Alkimi/page-1"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/Alkimi/translate-your-site",
-            "docId": "Alkimi/translate-your-site"
+            "label": "Page 2",
+            "href": "/docs/Alkimi/page-2",
+            "docId": "Alkimi/page-2"
+          },
+          {
+            "type": "link",
+            "label": "Page 3",
+            "href": "/docs/Alkimi/page-3",
+            "docId": "Alkimi/page-3"
           }
         ]
       },
@@ -101,15 +107,21 @@
     ]
   },
   "docs": {
-    "Alkimi/manage-docs-versions": {
-      "id": "Alkimi/manage-docs-versions",
-      "title": "Manage Docs Versions",
+    "Alkimi/page-1": {
+      "id": "Alkimi/page-1",
+      "title": "Page 1 - Alkimi Exchange",
+      "description": "Table of Contents",
+      "sidebar": "tutorialSidebar"
+    },
+    "Alkimi/page-2": {
+      "id": "Alkimi/page-2",
+      "title": "Page 2",
       "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
-    "Alkimi/translate-your-site": {
-      "id": "Alkimi/translate-your-site",
-      "title": "Translate your site",
+    "Alkimi/page-3": {
+      "id": "Alkimi/page-3",
+      "title": "Page 3",
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },

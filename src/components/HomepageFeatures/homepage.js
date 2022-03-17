@@ -9,11 +9,11 @@ export default function Homepage() {
         <div className="container center">
         <div className="title-container">
         <img class='hero-banner-logo' src={logo} alt="logo-image"></img>
-        <h1 className="homepage-title">Alkimi Exchange Docs</h1>
+        <h2>Alkimi Exchange Docs</h2>
         </div>
           <div className="row">
             <a href="/docs/intro"><div className="one">
-                <h2>Welcomee</h2>
+                <h2>Welcome</h2>
             </div></a>
             <a href="/docs/Alkimi/manage-docs-versions"><div className="two">
                 <h2>Whitepaper</h2>

@@ -1,8 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Translate your site
+# Page 3
+
 
 Let's translate `docs/intro.md` to French.
 

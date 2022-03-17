@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alkimi/page-3",
+  "id": "Alkimi/page-3",
+  "title": "Page 3",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Alkimi/page-3.md",
+  "sourceDirName": "Alkimi",
+  "slug": "/Alkimi/page-3",
+  "permalink": "/docs/Alkimi/page-3",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Alkimi/page-3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Page 2",
+    "permalink": "/docs/Alkimi/page-2"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/tutorial-basics/create-a-page"
+  }
+}
