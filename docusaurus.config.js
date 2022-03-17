@@ -165,3 +165,13 @@ const config = {
 };
 
 module.exports = config;
+
+// module.exports = {
+//   themeConfig: {
+//     colorMode: {
+//       defaultMode: 'dark',
+//       disableSwitch: false,
+//       respectPrefersColorScheme: false,
+//     },
+//   },
+// };
